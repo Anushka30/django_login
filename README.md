@@ -17,7 +17,7 @@ cd myproject
 python manage.py startapp signup
 ```
 
-### In the settings.py file, adding database connection details i.e:
+### In the settings.py file, adding database connection details like below:
 
 ```sh
 {
